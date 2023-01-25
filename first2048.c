@@ -1,8 +1,7 @@
-#include <cstdio>
-#include <cstring>
-#include <ctime>
-#include <cstdlib>
-using namespace std;
+#include <stdio.h>
+#include <string.h>
+#include <time.h>
+#include <stdlib.h>
 // This is an attempt to build a very simple and crude version of 2048 game
 // with no beautiful UI but only ASCII style one.
 

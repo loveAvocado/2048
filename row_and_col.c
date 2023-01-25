@@ -1,8 +1,8 @@
 //給定一個數組，四個數，對其進行2048式求和。
 //先不管傳值還是傳參了
-#include<cstdio>
-#include<cstring>
-using namespace std;
+#include<stdio.h>
+#include<string.h>
+
 void like2222(int[]); 
 
 int main () {
